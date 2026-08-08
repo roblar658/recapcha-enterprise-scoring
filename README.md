@@ -6,5 +6,7 @@ Scorebased ddos detection, using recapcha enterprise score system
 ## References
 
 https://docs.cloud.google.com/recaptcha/docs/overview
+
 https://docs.cloud.google.com/recaptcha/docs/interpret-assessment-website
+
 https://docs.cloud.google.com/recaptcha/docs/implementation-workflow
