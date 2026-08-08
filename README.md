@@ -5,6 +5,9 @@ Scorebased ddos detection, using recapcha enterprise score system
 
 ## How to detect misuse
 
+<img width="1412" height="1008" alt="image" src="https://github.com/user-attachments/assets/e2898c64-0ed3-43e7-afc0-98387bd66537" />
+
+
 <img width="1886" height="944" alt="image" src="https://github.com/user-attachments/assets/4dbb10c1-752b-498a-b087-e9425e1d81b0" />
 
 <img width="1810" height="939" alt="image" src="https://github.com/user-attachments/assets/0716e558-cf80-4798-a3fe-dbbdf61429ca" />
